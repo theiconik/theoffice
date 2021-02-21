@@ -212,6 +212,7 @@ header .toggle.active {
   opacity: 0;
   animation: slideRight 0.5s ease-in-out forwards;
   animation-delay: 1.2s;
+  text-decoration: none;
 }
 
 /* Animations */
